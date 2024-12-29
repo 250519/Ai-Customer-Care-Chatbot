@@ -6,3 +6,7 @@ langchain_groq
 gradio
 langchain_google_genai
 groq
+PyPDF2
+langchain_pinecone
+pinecone
+sentence_transformers
