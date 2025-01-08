@@ -23,4 +23,5 @@ Google API key (for Gemini Pro)
 Create a .env file in the project root with the following:
 
 GOOGLE_API_KEY=your_google_api_key
+
 PINECONE_API_KEY=your_pinecone_api_key
