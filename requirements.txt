@@ -10,3 +10,4 @@ PyPDF2
 langchain_pinecone
 pinecone
 sentence_transformers
+langgraph
